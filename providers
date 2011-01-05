@@ -1,0 +1,5 @@
+[org.plasma.share]
+compression=zip
+packageSuffix=.plasma-js-addon
+metadata=content/metadata.desktop
+
