@@ -3,3 +3,5 @@ compression=zip
 packageSuffix=.plasma-js-addon
 metadata=content/metadata.desktop
 
+[kdevelop-qthelp]
+metadata=content/metadata.desktop

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=KDE Libs API Documentation
+Comment=Makes KDE Libs documentation available to KDevelop
+Type=Service
+
+X-KDE-PluginInfo-Author=KDE Developers
+X-KDE-PluginInfo-Email=kde-devel@kde.org
+X-KDE-PluginInfo-Version=4.5
+X-KDE-PluginInfo-Website=http://api.kde.org/
+
+X-Synchrotron-ContentUrl=http://api.kde.org/qch/kdelibs-4.5.qch
