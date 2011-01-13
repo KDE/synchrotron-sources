@@ -35,13 +35,23 @@ must exist. This is known as the "provider's content directory"
 Within each provider's content directory, each addon to be published via OCS should
 appear in its own directory. Directories only need to be uniquely named within each
 provider; so multiple providers can have addons with the same names, for instance.
-Within each addon directory, a content/ directory must exist which contains the
-actual addon itself. This can be compressed or a set of uncompressed files.
+
+Within each addon directory, a content/ directory should exist which contains the
+actual addon itself, unless the addon is hosted elsewhere outside of this repository.
+The files in content/ can be a single (compressed) file or a set of uncompressed files.
+If they are uncompressed, synchrotron will take care of compressing them into a single
+package file for you using the compression= directive in the providers configuration
+file.
 
 For addons which already provide a .desktop file for local usage, uncompressed is
 convenient as it means that the .desktop file installed on the user's computer can
 be the same one used to generate the metadata for the OCS service.
 
-With each addon directory, an optional preview image can be included (currently
+For content which is hosted outside of the git repository, include a http URL to the
+file in the metadata.desktop file like this:
+
+    X-Synchrotron-ContentUrl=http://host/path/to/contentfile
+
+Within each addon directory, an optional preview image can be included (currently
 support for this is on the TODO, as are specifications for prefered image size and
 format).
