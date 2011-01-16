@@ -3,6 +3,7 @@ Name=KDE PIM Libs API Documentation
 Comment=Makes KDE PIM Libs documentation available to KDevelop
 Type=Service
 
+X-KDE-PluginInfo-Name=kdepimlibsapi
 X-KDE-PluginInfo-Author=KDE PIM Developers
 X-KDE-PluginInfo-Email=kde-pim@kde.org
 X-KDE-PluginInfo-Version=4.5

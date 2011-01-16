@@ -3,6 +3,7 @@ Name=KDE Libs API Documentation
 Comment=Makes KDE Libs documentation available to KDevelop
 Type=Service
 
+X-KDE-PluginInfo-Name=kdelibsapi
 X-KDE-PluginInfo-Author=KDE Developers
 X-KDE-PluginInfo-Email=kde-devel@kde.org
 X-KDE-PluginInfo-Version=4.5
