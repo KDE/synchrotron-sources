@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=crashtest scripts
+Comment=crashtest scripts
+Type=Service
+
+X-KDE-PluginInfo-Name=crashtest_drkonqi
+X-KDE-PluginInfo-Author=Matthias Fuchs
+X-KDE-PluginInfo-Email=mat69@gmx.net
+X-KDE-PluginInfo-Version=0.1
+
