@@ -1,8 +1,34 @@
+Introduction
+============
 Synchrotron is a small web app that takes a git repository populated with application
 addons such as data packs, scripts, Plasmoids, etc. and automates the process of
 turning that repository, referred to as the "source repository", into an
 Open Collaboration Services compatible feed that can be used with, for instance,
 "Get Hot New Stuff" features in KDE applications.
+
+Quickstart
+==========
+To add support for your application's addons:
+
+* Open the providers file that is in the top-level of the repository in a text editor and
+  add a new group, such as [MyApplication]. The name of the group must be unique and will
+  become part of the URL for your providers.xml file.
+
+* Create a directory in the repository that has the same name as your group
+
+* Popuplate that directory with your addons with each add-on in its own subdirectory. This
+  subdirectory must contain a .desktop file describing the addon and a contents/ directory
+  that contains the addon itself (or, alternaitvely, use the X-Synchrotron-ContentUrl key
+  in the .desktop file; see below for more details on that)
+
+* Commit and push your changes to git
+
+* Within the next 15 minutes, the OCS-compatible feed will be available and the provider
+  file will be located at http://collect.kde.org/<GroupNameFromProvidersFile>/providers.xml
+
+
+Details
+=======
 
 The addons should be platform independant and multiple sets of addons in the same git
 repository are supported. This allows one git repository to service the needs of
