@@ -6,3 +6,4 @@ metadata=content/metadata.desktop
 [kdevelop-qthelp]
 
 [drkonqi-crash-scripts]
+compression=zip

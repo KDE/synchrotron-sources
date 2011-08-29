@@ -1,6 +1,8 @@
 [Desktop Entry]
-Name=crashtest scripts
-Comment=crashtest scripts
+Name=crashtest
+Name[en_US]=stupidname
+Name[de]=dummername
+Comment=crashtest
 Type=Service
 
 X-KDE-PluginInfo-Name=crashtest_drkonqi
