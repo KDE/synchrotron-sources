@@ -6,7 +6,7 @@ Type=Service
 X-KDE-PluginInfo-Name=kdepimlibsapi
 X-KDE-PluginInfo-Author=KDE PIM Developers
 X-KDE-PluginInfo-Email=kde-pim@kde.org
-X-KDE-PluginInfo-Version=4.7
+X-KDE-PluginInfo-Version=4.8
 X-KDE-PluginInfo-Website=http://api.kde.org/
 
-X-Synchrotron-ContentUrl=http://api.kde.org/qch/kdepimlibs-4.7.qch
+X-Synchrotron-ContentUrl=http://api.kde.org/qch/kdepimlibs-4.8.qch
