@@ -7,3 +7,6 @@ metadata=content/metadata.desktop
 
 [drkonqi-crash-scripts]
 compression=zip
+
+[publictransport-providers]
+compression=zip
