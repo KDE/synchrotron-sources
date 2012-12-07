@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=USA, California, Orange County (OCTA)
+Comment=Accessor for California, Orange County, using the GTFS feed of Orange County Transportation Authority (OCTA). No GTFS-realtime data available.
+Type=Service
+
+X-KDE-PluginInfo-Name=us_octa
+X-KDE-PluginInfo-Author=Friedrich Pülz
+X-KDE-PluginInfo-Email=fpuelz@gmx.de
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://www.octa.net

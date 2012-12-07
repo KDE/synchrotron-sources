@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Switzerland, Swiss Federal Railways (SBB)
+Name[de]=Schweiz, Schweizerische Bundesbahnen (SBB)
+Comment=Provides timetable data for trains and public transport in Switzerland, only train data for other European countries. Uses the HAFAS API.
+Comment[de]=Stellt Fahrplandaten für Züge und öffentlichen Nahverkehr in der Schweiz zur Verfügung, für andere europäische Länder stehen Daten für Züge bereit. Nutzt die HAFAS-API
+Type=Service
+
+X-KDE-PluginInfo-Name=ch_sbb
+X-KDE-PluginInfo-Author=Friedrich Pülz
+X-KDE-PluginInfo-Email=fpuelz@gmx.de
+X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Website=http://www.sbb.ch

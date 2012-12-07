@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=USA, Texas, Austin (Capital Metro)
+Comment=Accessor for Texas, Austin, using the GTFS feed of Capital Metro. No GTFS-realtime data available.
+Type=Service
+
+X-KDE-PluginInfo-Name=us_cupmetro
+X-KDE-PluginInfo-Author=Friedrich Pülz
+X-KDE-PluginInfo-Email=fpuelz@gmx.de
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://www.capmetro.org
+

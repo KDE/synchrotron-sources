@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=USA, Texas, Dallas (DART)
+Comment=Accessor for Texas, Dallas, using the GTFS feed of Dallas Area Rapid Transit (DART). No GTFS-realtime data available.
+Type=Service
+
+X-KDE-PluginInfo-Name=us_dart
+X-KDE-PluginInfo-Author=Friedrich Pülz
+X-KDE-PluginInfo-Email=fpuelz@gmx.de
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://www.dart.org

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=USA, Couch USA
+Comment=Accessor using the GTFS feed of Couch USA. No GTFS-realtime data available.
+Type=Service
+
+X-KDE-PluginInfo-Name=us_couch
+X-KDE-PluginInfo-Author=Friedrich Pülz
+X-KDE-PluginInfo-Email=fpuelz@gmx.de
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://www.coachusa.com
+

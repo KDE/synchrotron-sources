@@ -1,6 +1,8 @@
 [Desktop Entry]
-Name=Deutsche Bahn
-Comment=A HAFAS provider with public transport data for Germany.
+Name=Germany, German Railways (DB)
+Name[de]=Deutschland, Deutsche Bahn (DB)
+Comment=Provides timetable data for trains and public transport in Germany, only train data for other European countries. Uses the HAFAS API.
+Comment[de]=Stellt Fahrplandaten für Züge und öffentlichen Nahverkehr in Deutschland zur Verfügung, für andere europäische Länder stehen Daten für Züge bereit. Nutzt die HAFAS-API
 Type=Service
 
 X-KDE-PluginInfo-Name=de_db

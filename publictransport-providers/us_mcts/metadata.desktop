@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=USA, Wisconsin, Milwaukee (MCTS)
+Comment=Accessor for Wisconsin, Milwaukee, using the GTFS feed of Milwaukee County Transit System (MCTS). No GTFS-realtime data available.
+Type=Service
+
+X-KDE-PluginInfo-Name=us_mcts
+X-KDE-PluginInfo-Author=Friedrich Pülz
+X-KDE-PluginInfo-Email=fpuelz@gmx.de
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://www.ridemcts.com

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=USA, Oregon, Portland (TriMet)
+Comment=Accessor for the Oregon, Portland, using the GTFS feed of the Tri-County Metropolitan Transportation District of Oregon (TriMet).
+Type=Service
+
+X-KDE-PluginInfo-Name=us_trimet
+X-KDE-PluginInfo-Author=Friedrich Pülz
+X-KDE-PluginInfo-Email=fpuelz@gmx.de
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://www.trimet.org

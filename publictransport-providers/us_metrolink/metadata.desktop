@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=USA, Southern California (Metrolink)
+Comment=Accessor for Southern California, using the GTFS feed of Metrolink. No GTFS-realtime data available.
+Type=Service
+
+X-KDE-PluginInfo-Name=us_metrolink
+X-KDE-PluginInfo-Author=Friedrich Pülz
+X-KDE-PluginInfo-Email=fpuelz@gmx.de
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://www.metrolinktrains.com

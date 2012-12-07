@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=USA, California, San Fransisco Bay Area (BART)
+Comment=Accessor for California, San Fransisco Bay Area, using the GTFS feed of Bay Area Rapid Transit (BART).
+Type=Service
+
+X-KDE-PluginInfo-Name=us_bart
+X-KDE-PluginInfo-Author=Friedrich Pülz
+X-KDE-PluginInfo-Email=fpuelz@gmx.de
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://www.bart.gov

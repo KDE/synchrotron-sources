@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=USA, Amtrak
+Comment=Accessor for trains in the USA, using the GTFS feed of Amtrak, Inc. No GTFS-realtime data available.
+Type=Service
+
+X-KDE-PluginInfo-Name=us_amtrak
+X-KDE-PluginInfo-Author=Friedrich Pülz
+X-KDE-PluginInfo-Email=fpuelz@gmx.de
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://www.amtrak.com
+
