@@ -3,6 +3,7 @@ Name=Deutsche Bahn
 Comment=A HAFAS provider with public transport data for Germany.
 Type=Service
 
+X-KDE-PluginInfo-Name=de_db
 X-KDE-PluginInfo-Author=Friedrich Pülz
 X-KDE-PluginInfo-Email=fpuelz@gmx.de
 X-KDE-PluginInfo-Version=2.0
