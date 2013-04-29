@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Qwt
+Comment=Qwt API documentation
+Type=Service
+
+X-KDE-PluginInfo-Name=qwtapidocs
+X-KDE-PluginInfo-Author=Qwt developers
+X-KDE-PluginInfo-Email=kde-devel@kde.org
+X-KDE-PluginInfo-Version=4.8
+X-KDE-PluginInfo-Website=http://sourceforge.net/projects/qwt/
+
+X-Synchrotron-ContentUrl=http://downloads.sourceforge.net/project/qwt/qwt-beta/6.1.0-rc3/qwt-6.1-rc3.tar.bz2?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fqwt%2F%3Fsource%3Ddlp&ts=1367242773&use_mirror=ignum
