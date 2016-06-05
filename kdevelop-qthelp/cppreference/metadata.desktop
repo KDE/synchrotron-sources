@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=C and C++ Standard Reference Documentation
+Comment=C and C++'s Standard Reference documentation
+Type=Service
+
+X-KDE-PluginInfo-Name=cppreference
+X-KDE-PluginInfo-Author=CPP Reference Editors
+X-KDE-PluginInfo-Email=comments@cppreference.com
+X-KDE-PluginInfo-Version=2015.11
+X-KDE-PluginInfo-Website=https://cppreference.com
+
+X-Synchrotron-ContentUrl=http://upload.cppreference.com/mwiki/images/2/2c/qch_book_20151129.tar.gz
