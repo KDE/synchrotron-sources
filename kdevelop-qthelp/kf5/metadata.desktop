@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=KDE Frameworks 5 API Documentation
+Comment=Makes KF5 documentation available to KDevelop
+Type=Service
+
+X-KDE-PluginInfo-Name=kf5api
+X-KDE-PluginInfo-Author=KDE Developers
+X-KDE-PluginInfo-Email=kde-devel@kde.org
+X-KDE-PluginInfo-Version=5.22
+X-KDE-PluginInfo-Website=https://api.kde.org/
+
+X-Synchrotron-ContentUrl=https://api.kde.org/qch/frameworks5-frameworks.qch
